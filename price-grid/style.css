@@ -46,6 +46,7 @@ span {
 .catch p{
     padding: 0px;
     margin: 0em;
+    line-height: 1.3rem;
 }
 
 .join p{
