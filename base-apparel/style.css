@@ -15,6 +15,10 @@ body {
         width: 30%;
     }
 
+    .logo-desk {
+        display: none;
+    }
+
     .img {
         width: 100%
     }
@@ -108,7 +112,7 @@ body {
     }
     
     .con {
-        width: 30%;
+        width: 40%;
     }
     
     .contents h1 {
